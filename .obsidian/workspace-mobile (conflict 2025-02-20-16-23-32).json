@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Attachments/History of Thiedell.canvas",
+                "viewState": {
+                  "x": -19.93866226769525,
+                  "y": -763.3628538105987,
+                  "zoom": -0.9371328979422149
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "History of Thiedell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b65a2fd50365fe6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "969ba768f4a8dc69",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4ac6ccc053699077",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d5020507f4bbb2e4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9fb2311c34bcd0ca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "4af747b9b0cb4e09",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "18f56a446ffe5ad5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "398c614fc8f94d86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "World Notes/Magic/Void Magic.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ca38f93d6aa9ee13",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ef96a563fd62bad3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "205a7db34c21d15e",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {},
+          "icon": "skull",
+          "title": "Combatant"
+        }
+      }
+    ],
+    "currentTab": 7
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Welcome to Thiedell.md",
+    "World Notes/Atlas/States/Regions/Cities/Buildings/The Hushed Mug.md",
+    "Campaign Notes/The Shard/The Shard.md",
+    "World Notes/Players/Serena.md",
+    "World Notes/Players/Elini.md",
+    "World Notes/Players/Heroless.md",
+    "World Notes/Players/Coral.md",
+    "World Notes/Players/Arthur Kenth.md",
+    "World Notes/Atlas/States/Regions/Cities/Veldrinn.md",
+    "Campaign Notes/Stories and Adventures.md",
+    "Campaign Notes/The Shard/The Shard Week 1 (02012025-02082025).md",
+    "World Notes/Atlas/States/States.md",
+    "1739665488772 - Combat.md",
+    "DM Resources/Roll Me A/Roll Me A Village - by Assassin NPC.pdf",
+    "DM Resources/Anterograde Amnesia.md",
+    "World Notes/Items and Relics/The Fickle Coin.md",
+    "World Notes/Items and Relics/Curvuluth's Notebook.md",
+    "Attachments/History of Thiedell.canvas",
+    "World Notes/History/Dragons/Orsakith, the Night Hunter.md",
+    "Campaign Notes/The Shard/Fall of Veldrinn.md",
+    "World Notes/Items and Relics/The Hearthcomb.md",
+    "World Notes/Items and Relics/The Thimble of Borrowed Skill.md",
+    "DM Resources/Selling Treasure.md",
+    "DM Resources",
+    "NPC Template.md",
+    "World Notes/Magic/Void Magic.md",
+    "Echos of the Void.md",
+    "Templates/Adventure Template.md",
+    "Campaign Notes/Echos of the Void/SPLATNOTES - Echos of the Void.md",
+    "Campaign Notes/Echos of the Void",
+    "Templates"
+  ]
+}

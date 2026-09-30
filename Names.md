@@ -1,0 +1,29 @@
+- Wub — Ribbet - Food
+- Dorun — Dwarf - Armorer
+- Krayl — Drakona - Armorer
+- Mavik — Human
+- Nessa — Elf - Pirate
+- Grub — Goblin
+- Zarn — Infern is
+- Puck — Faun - Herbalist
+- Gella — Fungirl
+- Roon — Simiah
+- Thog — Giant
+- Kira — Katari - Arcanist
+- Bimble — Halfling
+- Orvak — Orc
+- Liora — Elf
+- Tink — Faerie
+- Brash — Goblin
+- Calder — Human
+- Zenth — Infern is
+- Droop — Ribbet
+- Farg — Orc
+- Elmyra — Elf
+- Grindle — Dwarf
+- Nylo — Simiah
+- Vorka — Katari
+- Skibble — Goblin
+- Thalen — Human
+- Wren — Faun
+- Klog — Fungirl

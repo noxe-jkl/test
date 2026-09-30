@@ -1,0 +1,1 @@
+You can make a limited number of shots with a [[Reload]] weapon. You must then reload the weapon as an *action* or *bonus action*. 

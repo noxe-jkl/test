@@ -1,0 +1,4 @@
+- **Philosophy:** They believe the Plover Caves are a single, living entity. Their sacred duty is to maintain its balance, not exploit it for parts. They see the Open Hand's "hunting" as a violent desecration that is causing the entire system to fall ill. This "illness" is the fading of [[The Lure]].
+- **Structure:** They are not warriors, but ascetics, scholars, and guardians. Their community is based in a hidden sanctuary.
+- **The Sanctuary:** Let's call it the [[Coenobium of Still Waters]]. The term "Coenobium" is pulled directly from the Mothers Merciful's training location, signifying a communal, quasi-monastic way of life.
+- **Connection to Backstory:** The Secret-Keepers' focus on control and understanding cosmic balance is a perfect narrative foil for Paprika "[[Paprika Peppercorn|Papi]]" Peppercorn, who lost her home due to a lack of control over her powers.

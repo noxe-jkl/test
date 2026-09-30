@@ -1,0 +1,5 @@
+The players are led into the Cenobium's void, where they are granted with visions of Spectral warriors defeating them, where they must fight off the spectral tests of the matrons, which they do. They escape from the void, and are set to continue back to the surface. 
+
+>After resting in the matron's synovium, you are complimented on withstanding the trials and are given a vial of scorpion venom. You all prepare to return to Elmore, but the journey out of the cave is dangerous. You do not suffer any serious harm, though you likely encounter some monsters since the area is full of them. However, you have proven your combat ability and are able to withstand their attacks.
+>Upon your return to Elmore through the cave entrance, you are greeted as heroes and celebrated with much revelry. You are then led to the town hall where the venom is passed on to other alchemists in Elmore. These alchemists use the venom to create a concoction that renews the village's protective barrier.
+>With your mission complete, you now have some downtime. The next arc of the story will begin in about a month's time, so you have the opportunity to progress your characters

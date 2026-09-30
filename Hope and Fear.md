@@ -1,0 +1,7 @@
+[[Warborne]]
+[[Demigod]]
+[[Ghost]]
+[[Reanimated]]
+[[Shapeshifter]]
+[[Daggerheart/Reference/transformation/Vampire|Vampire]]
+[[Werewolf]]

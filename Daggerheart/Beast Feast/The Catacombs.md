@@ -1,0 +1,1 @@
+The deepest part of the [[Abyss]] layer. The ground is literally covered in the bones of creatures brought here to be eaten by the cave's most horrifying beasts. It is a hotbed of dangerous activity and the only known path to the deeper layers like [[Hadral]].

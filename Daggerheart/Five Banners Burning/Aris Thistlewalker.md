@@ -1,0 +1,4 @@
+- **Faction:** [[Hilltop]]
+- **Status:** Captured (Half-elf, Male).
+- **Role:** Divine Seeker and Envoy of the Hilltop Theocracy.
+- **The "Thing" (The Martyr’s Gaze):** Elias wears a thick, grimy bandage over his recently lost eye. He is touchingly naive, insisting that no one—including his captors—touch the dressing because he believes the wound is "ripening" into a miracle. While he waits for the gods to restore his sight, the other captives can clearly see the infection spreading past the edges of the cloth, making his cheery optimism deeply unsettling.

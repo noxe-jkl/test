@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d00b06247b7076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f3b6328dd20ddca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b65a2fd50365fe6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "969ba768f4a8dc69",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4ac6ccc053699077",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d5020507f4bbb2e4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9fb2311c34bcd0ca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "4af747b9b0cb4e09",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "18f56a446ffe5ad5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "398c614fc8f94d86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "World Notes/Magic/Void Magic.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ca38f93d6aa9ee13",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ef96a563fd62bad3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "6f3b6328dd20ddca",
+  "lastOpenFiles": [
+    "Fall of Veldrinn.md",
+    "How to Play Candela Obscura.md",
+    "Welcome to Thiedell.md",
+    "To-Do.md",
+    "DM Resources/Selling Treasure.md",
+    "DM Resources",
+    "NPC Template.md",
+    "World Notes/Magic/Void Magic.md",
+    "Echos of the Void.md",
+    "Templates/Adventure Template.md",
+    "Campaign Notes/Echos of the Void/SPLATNOTES - Echos of the Void.md",
+    "World Notes/Items and Relics/The Sable.md",
+    "Campaign Notes/Echos of the Void",
+    "World Notes/Players/Heroless.md",
+    "World Notes/Magic/Void Crystal.md",
+    "World Notes/History/Age of Fragmentation.md",
+    "World Notes/Atlas/Abyssal Lands.md",
+    "World Notes/Magic/Magic.md",
+    "World Notes/Atlas/States/Regions/Cities/Buildings/The Rolling Owl.md",
+    "World Notes/Players/Arthur Kenth.md",
+    "World Notes/NPCs and People/Chezuss, the Convergence.md",
+    "World Notes/Pantheon/Curvuluth, The Dark.md",
+    "Campaign Notes/The Shard/The Shard Week 1 (02012025-02082025).md",
+    "World Notes/Players/Serena.md",
+    "World Notes/Anterograde Amnesia.md",
+    "World Notes/NPCs and People/Dormi.md",
+    "World Notes/Items and Relics/Shard Initiating Letter.md",
+    "Campaign Notes/The Shard/The Shard.md",
+    "Templates",
+    "Attachments/History of Thiedell.canvas"
+  ]
+}

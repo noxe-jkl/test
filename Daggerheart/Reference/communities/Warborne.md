@@ -1,0 +1,1 @@
+**_Brave Face:_** Once per session, when an attack would cause you to mark a Stress, you can **spend a Hope** instead.

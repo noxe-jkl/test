@@ -1,0 +1,1 @@
+A company of [[Armada]]-aligned guild that spends their time searching for for sunken ships

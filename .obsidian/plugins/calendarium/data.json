@@ -1,0 +1,358 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Thiedell",
+      "description": null,
+      "id": "ID_39eb7b881bf9",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Zythisday",
+            "id": "ID_d94bfae96b4b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Vorrisday",
+            "id": "ID_5ab8883abaa8",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Kaeldisday",
+            "id": "ID_eada799aa89b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Thyrrisday",
+            "id": "ID_284b1868cb38",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Vaelday",
+            "id": "ID_abc9b81a9a49",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Durnisday",
+            "id": "ID_7bb8c8fadb6b",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Zarynthar",
+            "type": "month",
+            "length": 30,
+            "id": "ID_59ca2ba94859",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Lyvriss",
+            "type": "month",
+            "length": 30,
+            "id": "ID_e9c93b9b4ad9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Osivrenn",
+            "type": "month",
+            "length": 30,
+            "id": "ID_4a4adb785b08",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Embrithis",
+            "type": "month",
+            "length": 30,
+            "id": "ID_b87a3b1a8b1a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Solrathis",
+            "type": "month",
+            "length": 30,
+            "id": "ID_29badbd8da4b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Zephrayn",
+            "type": "month",
+            "length": 30,
+            "id": "ID_590a0b586b3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Vaelthir",
+            "type": "month",
+            "length": 30,
+            "id": "ID_082bbb28da39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Nyxthos",
+            "type": "month",
+            "length": 30,
+            "id": "ID_f94a2b8ba8da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Thryvvian",
+            "type": "month",
+            "length": 30,
+            "id": "ID_ba39e88a5a7a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Sorynth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_c90a7959dbda",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Nivralis",
+            "type": "month",
+            "length": 30,
+            "id": "ID_7a9a492b892a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Emberis",
+            "type": "month",
+            "length": 30,
+            "id": "ID_68294ac908aa",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Solvithar",
+            "cycle": 90,
+            "offset": "2",
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_392b088998cb"
+          },
+          {
+            "name": "Nirith",
+            "cycle": 10,
+            "offset": "1",
+            "faceColor": "#8302bb",
+            "shadowColor": "#2b0042",
+            "id": "ID_1b3bb8595a5a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_1a1b980b2b18",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Pre-Sundering",
+            "description": "",
+            "format": "Year {{era_year}} - {{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          },
+          {
+            "id": "ID_e8b91b580ab9",
+            "isEvent": false,
+            "isStartingEra": false,
+            "name": "Post-Sunder",
+            "description": "<p>Beginning of the Age of Fragmentation</p>",
+            "format": "Era year {{era_year}} (year {{year}}) - {{era_name}}",
+            "date": {
+              "year": 5000,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "category": null
+          }
+        ]
+      },
+      "current": {
+        "day": 10,
+        "month": 9,
+        "year": 5689
+      },
+      "events": [
+        {
+          "name": "The Kindling",
+          "description": "<p>New Year's Rites, Renewal</p>",
+          "id": "2980621",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          },
+          "category": "universal-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Lunaris",
+          "description": "<p>Festival in celebration of Luanra, the Celestial Guardian and goddess of the moon, guidance, and protection. </p>",
+          "id": "2980622",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "universal-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Therin",
+          "description": "<p>Celebration of Theros, god of creation, craftsmanship, and fire. </p>",
+          "id": "2980623",
+          "note": null,
+          "type": "Recurring",
+          "date": {
+            "day": 1,
+            "year": [
+              null,
+              null
+            ],
+            "month": 4
+          },
+          "category": "universal-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Sylvris",
+          "description": "<p>Celebration of Sylvanna, Keeper of Life. Goddess of nature, healing, and growth. </p>",
+          "id": "2980624",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 1
+          },
+          "category": "universal-events",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "EotV Session 1.2",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 9,
+            "year": 5689
+          },
+          "id": "ID_998a28fb2a38",
+          "note": "DND (Thiedell)/General/Campaign Notes/Echos of the Void/Session Notes/EotV Session 1.2.md",
+          "category": "universal-events",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Universal Events",
+          "id": "universal-events",
+          "color": "#9b2c2c"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1778440379,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_39eb7b881bf9",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Never",
+  "inlineEventsTag": "<event>",
+  "paths": [
+    [
+      "TTRPG/DND (Thiedell)/World Notes",
+      "ID_39eb7b881bf9"
+    ]
+  ]
+}

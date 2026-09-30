@@ -1,0 +1,1 @@
+The beloved halfling mayor (he/him) of [[Elmore]]. His recent, unexpected attack by a dangerous creature during his daily hike is the event that kicks off the campaign, revealing that [[The Lure]] is failing.

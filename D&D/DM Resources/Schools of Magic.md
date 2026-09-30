@@ -1,0 +1,16 @@
+- **Abjuration** ("Protectin' stuff"): Creates barriers, negates harm, harms trespassers, or banishes creatures.
+	- _Examples_: Alarm, Protection from Evil and Good, Arcane Lock, Glyph of Warding.
+- **Conjuration** ("Makin' stuff"): Involves transporting objects or creatures, summoning allies, teleportation, or creating effects.
+	- _Examples_: Entangle, Dimension Door, Teleport, Wish.
+- **Divination** ("Knowin' stuff"): Reveals information.
+	- _Examples_: Identify, Speak with Animals, Detect Thoughts, Scrying.
+- **Enchantment** ("Convincin' stuff"): Influences or controls minds.
+	- _Examples_: Charm Person, Sleep, Hold Person, Power Word Kill.
+- **Evocation** ("Makin' energy stuff"): Manipulates magical energy for effects like blasts or healing.
+	- _Examples_: Fire Bolt, Cure Wounds, Magic Missile, Earthquake.
+- **Illusion** ("Trickin' stuff"): Deceives senses or minds.
+	- _Examples_: Invisibility, Magic Mouth, Simulacrum.
+- **Necromancy** ("Dead stuff"): Manipulates life and death, raises the dead or drains life.
+	- _Examples_: Chill Touch, Resurrection, False Life, Spare the Dying.
+- **Transmutation** ("Changin' stuff"): Alters properties of creatures, objects, or environments.
+	- _Examples_: Mending, Polymorph, Time Stop.

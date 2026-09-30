@@ -1,0 +1,1 @@
+The legendary Forest Mage (she/her) who, long ago, cast the powerful spell that created [[The Lure]] in the heart of the [[Plover Caves]]. She is a historical figure, and the details of her life and magic are shrouded in mystery.

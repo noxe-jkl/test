@@ -1,0 +1,332 @@
+{
+	"fileType": "dm-screen",
+	"siteVersion": "2.7.3",
+	"w": 3,
+	"h": 2,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 2,
+			"t": 51,
+			"s": {}
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 2,
+			"t": 5,
+			"s": {
+				"s": "NUMBER",
+				"d": "DESC",
+				"ri": true,
+				"m": true,
+				"rg": false,
+				"rri": false,
+				"g": true,
+				"p": true,
+				"a": false,
+				"k": false,
+				"piHp": false,
+				"piHm": false,
+				"piV": true,
+				"piO": false,
+				"c": [],
+				"cndc": [],
+				"r": [],
+				"rdp": [],
+				"n": 1
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 2,
+			"t": 15,
+			"s": {}
+		}
+	],
+	"ex": [
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 8,
+			"s": {
+				"state": {
+					"time": 130022,
+					"browseTime": null,
+					"isBrowseMode": false,
+					"hoursPerDay": 24,
+					"minutesPerHour": 60,
+					"secondsPerMinute": 60,
+					"hoursPerLongRest": 8,
+					"minutesPerShortRest": 60,
+					"secondsPerRound": 6,
+					"offsetYears": 0,
+					"offsetMonthStartDay": 0,
+					"days": [
+						{
+							"id": "fbe3da1c-21af-4e8a-b299-59f89edfb3ce",
+							"data": {
+								"name": "Oneday"
+							}
+						},
+						{
+							"id": "23ea2a28-9cf3-4cb0-8e6f-522f68149dad",
+							"data": {
+								"name": "Twoday"
+							}
+						},
+						{
+							"id": "a012517f-daca-4090-96af-4989ec0f13ea",
+							"data": {
+								"name": "Threeday"
+							}
+						},
+						{
+							"id": "ed8c205b-1567-4d0f-81b4-e95d751a21c2",
+							"data": {
+								"name": "Fourday"
+							}
+						},
+						{
+							"id": "0954488e-0881-4f88-920e-f00adc6f48fc",
+							"data": {
+								"name": "Fiveday"
+							}
+						},
+						{
+							"id": "61070b95-d047-430d-8543-9ac3df16b781",
+							"data": {
+								"name": "Sixday"
+							}
+						},
+						{
+							"id": "6dbed81b-b403-4c39-b82d-26671689cd86",
+							"data": {
+								"name": "Sevenday"
+							}
+						}
+					],
+					"months": [
+						{
+							"id": "9afe5d9d-5645-4f8a-a03d-1e9e7976eedd",
+							"data": {
+								"name": "Oneuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "07bd3b0f-8cd3-4baa-9bbe-a4f7676b1e39",
+							"data": {
+								"name": "Twouary",
+								"days": 30
+							}
+						},
+						{
+							"id": "cde4631a-1c97-4a65-83f9-a5953c204618",
+							"data": {
+								"name": "Threeuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "5aa5374a-2180-4a69-ab9f-fc85a5c5e493",
+							"data": {
+								"name": "Fouruary",
+								"days": 30
+							}
+						},
+						{
+							"id": "65389400-7c6a-4e5e-8119-ef10a38b8cb2",
+							"data": {
+								"name": "Fiveuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "11883742-5c1d-49fe-abc4-3679b565ecdb",
+							"data": {
+								"name": "Sixuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "55cdd8ce-69ce-456a-be71-377f72c9844b",
+							"data": {
+								"name": "Sevenuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "e65c22b4-e5b7-45a9-a374-1363669b6edb",
+							"data": {
+								"name": "Eightuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "0d5dbbff-29a0-4155-a60a-cfd9d9df5072",
+							"data": {
+								"name": "Nineuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "3efe32d0-c6b2-4abb-a95e-21fedf017a52",
+							"data": {
+								"name": "Tenuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "0df456c3-3502-4ed6-b0f2-9d25691f9825",
+							"data": {
+								"name": "Elevenuary",
+								"days": 30
+							}
+						},
+						{
+							"id": "75ccde33-5461-404e-bc37-fd522e75c18e",
+							"data": {
+								"name": "Twelveuary",
+								"days": 30
+							}
+						}
+					],
+					"events": {},
+					"encounters": {},
+					"seasons": [
+						{
+							"id": "001d339a-f658-47b5-815e-afe913315968",
+							"data": {
+								"name": "Season 1",
+								"startDay": 0,
+								"endDay": 89,
+								"sunriseHour": 6,
+								"sunsetHour": 22
+							}
+						},
+						{
+							"id": "fef30aee-0391-4ad6-8306-23400356d0dd",
+							"data": {
+								"name": "Season 2",
+								"startDay": 90,
+								"endDay": 179,
+								"sunriseHour": 6,
+								"sunsetHour": 22
+							}
+						},
+						{
+							"id": "66797202-c03c-4c8d-b6e7-9f22ca3218f6",
+							"data": {
+								"name": "Season 3",
+								"startDay": 180,
+								"endDay": 269,
+								"sunriseHour": 6,
+								"sunsetHour": 22
+							}
+						},
+						{
+							"id": "ced448a5-b187-433a-ada3-407ba7c103e1",
+							"data": {
+								"name": "Season 4",
+								"startDay": 270,
+								"endDay": 359,
+								"sunriseHour": 6,
+								"sunsetHour": 22
+							}
+						}
+					],
+					"years": [],
+					"eras": [],
+					"moons": [
+						{
+							"id": "82c2c0fc-3714-4ed0-a2da-833adaf8e9b1",
+							"data": {
+								"name": "Moon 1",
+								"color": "#ffffff",
+								"phaseOffset": 0,
+								"period": 24
+							}
+						}
+					],
+					"tab": 2,
+					"isPaused": false,
+					"isAutoPaused": false,
+					"hasCalendarLabelsColumns": true,
+					"hasCalendarLabelsRows": false,
+					"unitsWindSpeed": "mph",
+					"isClockSectionHidden": false,
+					"isCalendarSectionHidden": false,
+					"isMechanicsSectionHidden": false,
+					"isOffsetsSectionHidden": false,
+					"isDaysSectionHidden": false,
+					"isMonthsSectionHidden": false,
+					"isSeasonsSectionHidden": false,
+					"isYearsSectionHidden": false,
+					"isErasSectionHidden": false,
+					"isMoonsSectionHidden": false
+				},
+				"compClockState": {
+					"state": {},
+					"compWeatherState": {
+						"state": {
+							"temperature": "mild",
+							"precipitation": "sunny",
+							"windDirection": 0,
+							"windSpeed": "calm"
+						}
+					}
+				},
+				"compCalendarState": {
+					"state": {}
+				},
+				"compSettingsState": {
+					"state": {}
+				}
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 14,
+			"c": {
+				"b": "XMM",
+				"c": 1
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 14,
+			"c": {
+				"b": "ScreenDungeonKit",
+				"c": 0
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 14,
+			"c": {
+				"b": "XMM",
+				"c": 3
+			}
+		}
+	]
+}

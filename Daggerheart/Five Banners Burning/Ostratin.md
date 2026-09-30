@@ -1,0 +1,4 @@
+- **Faction**: [[Jesthaen]]
+- **Status:** Deceased (Male).
+- **Role:** [[Jesthaen]] spy in the [[Voldaen]] court
+- **The "Thing":** Found in the [[Lorekeeper]]

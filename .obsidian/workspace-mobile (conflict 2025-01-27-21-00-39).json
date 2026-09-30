@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "e35ddc469d80a941",
+    "type": "split",
+    "children": [
+      {
+        "id": "af825e0fffa1fead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "251f8c195ad550e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Void Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Void Magic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2978d32874ff7520",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "71ca589b1d875993",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d8833936252a6a45",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "dawn of the void",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cc4c624e76588703",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f94dc81de4e4a973",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4225ecc9e5dfadad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b8433ee6c850b7db",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "55e32702ec254ce3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "76c5b727de73b8b1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "251f8c195ad550e1",
+  "lastOpenFiles": [
+    "Karyurt Khaganate.md",
+    "Rohand.md",
+    "Il-dir.md",
+    "Thiedell.md",
+    "Map of Thiedell.png",
+    "Chezuss, the Convergence.md",
+    "Amulet of Chezuss.md",
+    "Abyssal Lands.md",
+    "Peoples and Cultures.md",
+    "Gods of Thiedell.md",
+    "Ancient Dragons.md",
+    "History of Thiedell (WIP).md",
+    "States.md",
+    "Islands.md",
+    "Welcome to Thiedell.md",
+    "Magic.md",
+    "Catterus.md",
+    "Roathier.md",
+    "Nuitari.md",
+    "Void Magic.md",
+    "Stories and Adventures.md",
+    "The Shard.md",
+    "Map of Il-dir.png",
+    "Whitvater.md",
+    "Religion and the Gods.md",
+    "Testing.md",
+    "Void Lands.md"
+  ]
+}

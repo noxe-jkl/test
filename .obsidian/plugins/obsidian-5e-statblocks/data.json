@@ -1,0 +1,28 @@
+{
+  "monsters": [],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "daggerheart-adversary",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/",
+    "Daggerheart/Reference/adversaries"
+  ],
+  "autoParse": true,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": true,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

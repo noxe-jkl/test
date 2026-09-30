@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "TTRPG Dashboard"
+            }
+          },
+          {
+            "id": "2744b7ed7bd39452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D/Verteminia/Session Notes/Verteminia Session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verteminia Session 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba4309080c394c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f1e4046f714557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8ce7e0b596e38a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a7c38fffa5ca65ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "um,bra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35894bc6f4b45ad5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "322f4e4f681a16f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8367bc77f2a718",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8755b5742acf113d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D/Verteminia/Session Notes/Verteminia Session 6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4a785882074c4465",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "D&D/Verteminia/Session Notes/Verteminia Session 6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c6d314eca2e77737",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TTRPG Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ecfc83dd637fb5c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0fd6caf743380da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "25fa8202cf26d53a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.3531494140625
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "widgets:Add widget": false,
+      "print:Print note": false,
+      "character-sheets:Create new character sheet ": false,
+      "dndbeyond-importer:Import D&D Beyond Character": false,
+      "dndbeyond-importer:Dice Roller": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "D&D/Verteminia/Session Notes/Verteminia Session 6.md",
+    "TTRPG Dashboard.md",
+    "D&D/Verteminia/Rival Adventuring Parties of Sumistra.md",
+    "D&D/Verteminia/Session Notes/Verteminia Session 5.md",
+    "Daggerheart/Journey to Horizon/Session Notes/JtH Session 3.md",
+    "Daggerheart/Reference/adversaries/Archer Guard.md",
+    "Daggerheart/Reference/adversaries/Vacuum Minion.md",
+    "Daggerheart/Reference/adversaries/Adult Flickerfly.md",
+    "Daggerheart/Reference/adversaries/Battle Box.md",
+    "Daggerheart/Reference/adversaries/Chimera.md",
+    "Daggerheart/Reference/adversaries/Deeproot Defender.md",
+    "Daggerheart/Reference/adversaries/Courtier.md",
+    "Daggerheart/Reference/adversaries/Chaos Skull.md",
+    "Daggerheart/Reference/adversaries/Acid Burrower.md",
+    "Daggerheart/Reference/adversaries/Patchwork Zombie Hulk.md",
+    "Daggerheart/Reference/adversaries/gemini-code-1790707460854.json",
+    "Daggerheart/Reference/adversaries/gemini-code-1790707445912.json",
+    "D&D/Verteminia/Caperkin, the Undying Horn.md",
+    "D&D/Verteminia/Briarhollow.md",
+    "Names.md",
+    "Daggerheart/Journey to Horizon/Cinteri.md",
+    "Daggerheart/Journey to Horizon/Rescif Munte.md",
+    "Daggerheart/Journey to Horizon/Filia Lenue.md",
+    "Daggerheart/Journey to Horizon/Journey To Horizon Map Guide.md",
+    "Daggerheart/Journey to Horizon/Zekrivash.md",
+    "Daggerheart/Reference/contents/Downtime.md",
+    "Daggerheart/Reference/weapons/Improved Glowing Rings.md",
+    "Daggerheart/Journey to Horizon/Sarah.md",
+    "D&D/Strixhaven",
+    "D&D/DM Resources/dm-screen.json",
+    "Resources/get_campaigns.js",
+    "Other/Lost To Time",
+    "Resources/log_hours.js",
+    "Daggerheart/Journey to Horizon/Session Notes",
+    "Other/bear-cub.png",
+    "Other/bear.png",
+    "Other",
+    "Daggerheart/Castle High",
+    "Daggerheart/Age of Umbra/Age of Umbra Map.jpg"
+  ]
+}

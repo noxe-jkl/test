@@ -1,0 +1,1 @@
+I ([[Julian Cross]]) revealed evidence from before we met that she had stolen materials from Candela in order to get her fired before her next assignment, one I told Candela was doomed to fail. It failed, but her career had been ruined. She now works at a bakery.

@@ -1,0 +1,4 @@
+- **Faction:** [[Polaris]]
+- **Status:** Captured (Infernis/Clank, Female).
+- **Role:** Magitech Oversight Coordinator for the High Circle.
+- **The "Thing" (The Internal Metronome):** She possesses a magitech heart implant—a hallmark of Polaris industrial innovation—that emits a constant, audible _click_. She is using this internal rhythm to perfectly map the timing of her captors' patrol routes and magical ward fluctuations.

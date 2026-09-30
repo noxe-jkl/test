@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Daggerheart/SRD  ",
+      "color": {
+        "a": 1,
+        "rgb": 15851017
+      }
+    },
+    {
+      "query": "path:D&D  ",
+      "color": {
+        "a": 1,
+        "rgb": 8061096
+      }
+    },
+    {
+      "query": "path:\"Daggerheart/Beast Feast\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "path:\"Candela Obscura\" ",
+      "color": {
+        "a": 1,
+        "rgb": 3309874
+      }
+    },
+    {
+      "query": "path:\"Daggerheart/Five Banners Burning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Daggerheart/One-Shots  ",
+      "color": {
+        "a": 1,
+        "rgb": 2028815
+      }
+    },
+    {
+      "query": "path:\"Daggerheart/Journey to Horizon\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.614186851211073,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.35842636717900384,
+  "close": true
+}

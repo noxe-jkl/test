@@ -1,0 +1,1 @@
+[[Count Allistar Valemont]], used treachery to kill his own liege lord, [[Duke Bran Hartwell]], and married his son, [[Toren Valemont]], to his liege's only daughter, [[Matilda Hartwell]], thereby legitimizing his family’s claim on the duchy.

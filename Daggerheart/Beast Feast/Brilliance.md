@@ -1,0 +1,1 @@
+A geodesic dome within the [[Plover Caves]] that shines with a light mimicking the sun. It serves as a place of peace, meditation, and morning rituals for the cave's veteran explorers.

@@ -1,0 +1,1 @@
+While wearing this leg, opportunity attacks against you have disadvantage as the spring in the leg propels you away from enemies.

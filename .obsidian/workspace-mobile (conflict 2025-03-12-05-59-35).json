@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "968b62d63a1f61f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b006db53e782613b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b65a2fd50365fe6f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "969ba768f4a8dc69",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4ac6ccc053699077",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d5020507f4bbb2e4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "9fb2311c34bcd0ca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "4af747b9b0cb4e09",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "18f56a446ffe5ad5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "398c614fc8f94d86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "World Notes/Magic/Void Magic.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ca38f93d6aa9ee13",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ef96a563fd62bad3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "205a7db34c21d15e",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {},
+          "icon": "skull",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "035607c81de829de",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {},
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "f14bee1fe45f8470",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_39eb7b881bf9",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 9,
+                "year": 5689
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_3ac9298948fb"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "d8f184bc1bca3672",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_39eb7b881bf9",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 10,
+                "month": 9,
+                "year": 5689
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_fa9ab9e9792a"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "6dfc5cce52c75dae",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_39eb7b881bf9",
+            "ephemeral": {
+              "viewing": {
+                "day": 10,
+                "month": 9,
+                "year": 5689
+              },
+              "viewState": 1,
+              "displaying": {
+                "day": 10,
+                "month": 9,
+                "year": 5689
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_ba0bfbe93aea",
+            "child": "ID_485a7a3918b9"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "d714f98741383ad5",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM_AGENDA",
+          "state": {
+            "calendar": "ID_39eb7b881bf9",
+            "id": "ID_485a7a3918b9",
+            "parent": "ID_ba0bfbe93aea"
+          },
+          "icon": "CALENDARIUM_AGENDA",
+          "title": "Agenda"
+        }
+      }
+    ],
+    "currentTab": 7
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "homepage:Open homepage": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "b006db53e782613b",
+  "lastOpenFiles": [
+    "DND (Thiedell)/World Notes/Atlas/Locations/Rhitira Supply Center.md",
+    "DND (Thiedell)/General/DM Resources/Shops/COMMON MEAL + INN.md",
+    "DND (Thiedell)/General/DM Resources/Types of Magic.md",
+    "DND (Thiedell)/World Notes/NPCs and People/Organizations and Companies/Osyex Weapons.md",
+    "DND (Thiedell)/World Notes/Items and Relics/Osyian Rifle.md",
+    "DND (Thiedell)/World Notes/Items and Relics/Stormcallers.md",
+    "DND (Thiedell)/World Notes/Items and Relics/Stormcaller Pistol.md",
+    "DND (Thiedell)/World Notes/Atlas/Locations/Livist Point.md",
+    "DND (Thiedell)/World Notes/Players/Marvolio.md",
+    "DND (Thiedell)/General/Campaign Notes/Echos of the Void/Session Notes/EotV Session 1.2.md",
+    "Gaining Proficency.md",
+    "DND (Thiedell)/General/DM Resources/Shops/MARKET PRODUCE + FOOD.md",
+    "DND (Thiedell)/World Notes/Items and Relics/Stormcaller Rifle.md",
+    "DND (Thiedell)/General/Campaign Notes/Echos of the Void/Echos of the Void - Act 1.md",
+    "Commander Rellen Kaith.md",
+    "DND (Thiedell)/General/Campaign Notes/Echos of the Void/Session Notes/EotV Session 1.1.md",
+    "DND (Thiedell)/General/Campaign Notes/Echos of the Void/Echos of the Void.md",
+    "DND (Thiedell)/Welcome to Thiedell.md",
+    "TTRPG/DND (Thiedell)/General/Campaign Notes/Echos of the Void/Echos of the Void - Act 1.md",
+    "TTRPG/DND (Thiedell)/General/Campaign Notes/Echos of the Void/Session Notes/EotV Session 1.2.md",
+    "TTRPG/DND (Thiedell)/World Notes/Pantheon/Gods of Thiedell.md",
+    "TTRPG/DND (Thiedell)/General/Attachments/History of Thiedell.canvas",
+    "Commander Othlivsil Dolrasil.md",
+    "TTRPG/DND (Thiedell)/World Notes/Thiedell.md",
+    "Brotherhood of Dreg.md",
+    "Plugin Help.md",
+    "TTRPG/DND (Thiedell)/Welcome to Thiedell.md",
+    "TTRPG/DND (Thiedell)/General/Attachments/example army camp.jpg",
+    "TTRPG/DND (Thiedell)/General/Attachments/Map of Il-dir.png",
+    "TTRPG/DND (Thiedell)/General/Attachments/CSV-States.csv",
+    "TTRPG/Candela Obscura/Setting",
+    "TTRPG/Candela Obscura",
+    "TTRPG/DND (Thiedell)",
+    "Civil Air Patrol",
+    "TTRPG",
+    "TTRPG/DND (Thiedell)/World Notes",
+    "TTRPG/DND (Thiedell)/General",
+    "TTRPG/DND (Thiedell)/General/DM Resources/Roll Me A/Roll Me A Village - by Assassin NPC.pdf",
+    "TTRPG/DND (Thiedell)/General/DM Resources"
+  ]
+}

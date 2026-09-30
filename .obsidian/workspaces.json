@@ -1,0 +1,428 @@
+{
+  "workspaces": {
+    "FBB": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "a5d2727fb8de9140",
+            "type": "tabs",
+            "dimension": 53.44202898550725,
+            "children": [
+              {
+                "id": "b864aef7610d9c73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Sessions/Session 2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 2"
+                }
+              },
+              {
+                "id": "68ace6ba9f9fab13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/SRD/adversaries/Jagged Knife Lieutenant.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Jagged Knife Lieutenant"
+                }
+              },
+              {
+                "id": "1a0a41157c4b8e68",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/SRD/adversaries/Jagged Knife Bandit.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Jagged Knife Bandit"
+                }
+              },
+              {
+                "id": "89342fd505177535",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/SRD/adversaries/Jagged Knife Sniper.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Jagged Knife Sniper"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4cb9b9ce096d9e74",
+            "type": "tabs",
+            "dimension": 46.55797101449276,
+            "children": [
+              {
+                "id": "707e66a4588f433d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Five Banners Burning Home.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Five Banners Burning Home"
+                }
+              },
+              {
+                "id": "555a414ff0cf1339",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Elias Hughes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Elias Hughes"
+                }
+              },
+              {
+                "id": "a79e7780f6dbc9aa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Jesthaen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Jesthaen"
+                }
+              },
+              {
+                "id": "66aba93dda28a0f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Elias Hughes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Elias Hughes"
+                }
+              },
+              {
+                "id": "0c5be8a55962ef5e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Pontoro.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pontoro"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "46837c9c24ff28bc",
+        "type": "split",
+        "children": [
+          {
+            "id": "3540a715038c4590",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5e6ad82c997422c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "acf677fd71d395b9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "6d031f04dbd8c778",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 250.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "749de3b1b3b267be",
+        "type": "split",
+        "children": [
+          {
+            "id": "7d17d5fd70148cc1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57cf4457ad5ba225",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Sessions/Session 1.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Session 1"
+                }
+              },
+              {
+                "id": "1ec49734fe9f5959",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Daggerheart/Five Banners Burning/Sessions/Session 1.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Session 1"
+                }
+              },
+              {
+                "id": "117b039006ba7f65",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Thalosyr/Story Notes/One-Shots/Murkmire Malevolence/Murkmire Notes/The Murkmire Stone.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of The Murkmire Stone"
+                }
+              },
+              {
+                "id": "7066507a512d4ddd",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "58fd0f865e88f4ee",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "67657357eb4df598",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM",
+                  "state": {
+                    "calendar": "ID_39eb7b881bf9",
+                    "ephemeral": {
+                      "viewState": 1,
+                      "displaying": {
+                        "day": 1,
+                        "month": 4,
+                        "year": 5689
+                      },
+                      "displayDayNumber": false,
+                      "displayMoons": true
+                    },
+                    "id": "ID_4a497838f8bb"
+                  },
+                  "icon": "lucide-ghost",
+                  "title": "CALENDARIUM"
+                }
+              },
+              {
+                "id": "2e384af762c731a4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "DND (Thiedell)/General/DM Resources/Shops/ADVENTURING SUPPLIES.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for ADVENTURING SUPPLIES"
+                }
+              },
+              {
+                "id": "9f12ee0eabb699a5",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "initiative-tracker-view"
+                }
+              },
+              {
+                "id": "ca867fa619105774",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "initiative-tracker-view"
+                }
+              },
+              {
+                "id": "43ffd72b61c115ac",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "initiative-tracker-view"
+                }
+              },
+              {
+                "id": "8ccd05e4088ea7f7",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "initiative-tracker-view"
+                }
+              },
+              {
+                "id": "ae5e173eddb5e559",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "initiative-tracker-view"
+                }
+              },
+              {
+                "id": "54b3d8e9ccc29511",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "initiative-tracker-view"
+                }
+              },
+              {
+                "id": "bbe19cc364955603",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "initiative-tracker",
+                  "title": "Initiative Tracker"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 333.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes...": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "initiative-tracker:Initiative Tracker Encounter Builder": false,
+          "widgets:Add widget": false,
+          "workspaces:Manage workspace layouts": false,
+          "calendarium:Open Calendarium": false
+        }
+      },
+      "active": "b864aef7610d9c73",
+      "mtime": "2026-01-23T22:21:36-05:00"
+    }
+  },
+  "active": "FBB"
+}
